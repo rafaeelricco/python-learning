@@ -18,3 +18,5 @@ hello.rjust(20)  # Hello World
 hello.isdigit()  # False
 hello.isalpha()  # False
 hello.isalnum()  # False
+hello.split()  # ['Hello', 'World']
+hello[2:5]  # llo -> [start:stop]

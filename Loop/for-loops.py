@@ -20,7 +20,6 @@ for i in range(1, 11):
 for iterator in range(1, 11, 2):
     print(iterator)
 
-
 # How to loop functions?
 yourFunction = 0
 [yourFunction() for _ in range(50)]  # repeat 50 times

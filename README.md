@@ -12,6 +12,10 @@ This is a simple repository created in my revision in python language. I hope it
 - Output & Printing
 - Variables
 - Arithmetic Operators
+- Assignment Operators
+- Association Operators
+- Logical Operators
+- Identity Operators
 - String Methods
 - Conditional Operators
 - Chained Conditionals
@@ -23,13 +27,13 @@ This is a simple repository created in my revision in python language. I hope it
 - Dictionaries
 - List Comprehension
 - Functions
-- *args & **kwargs
-- Lambda Functions 
-- Scope and Globals 
+- \*args & \*\*kwargs
+- Lambda Functions
+- Scope and Globals
 - Exceptions
 - Handling Exceptions
-- Filter and Maps 
-- F Strings 
+- Filter and Maps
+- F Strings
 
 ## Licença
 
